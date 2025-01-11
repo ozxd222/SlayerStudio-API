@@ -2,14 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "server.js",  // Yahan apna server file ka naam likhein
-      "use": "@vercel/node" // Vercel ko batata hai ki aap Node.js server use kar rahe hain
+      "src": "server.js",
+      "use": "@vercel/node"
     }
   ],
   "routes": [
     {
-      "src": "/api/(.*)",  // Ye route `/api/` ke saath match karega
-      "dest": "/server.js"  // Yeh server.js file ko route karega
+      "src": "/api/(.*)",
+      "dest": "/server.js"
     }
   ]
 }
