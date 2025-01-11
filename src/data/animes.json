@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Naruto",
+    "description": "A popular anime about ninjas",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Naruto - Episode 1",
+        "videoLink": "https://drive.google.com/uc?id=YOUR_FILE_ID_1",
+        "description": "Naruto starts his journey as a ninja."
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Naruto - Episode 2",
+        "videoLink": "https://drive.google.com/uc?id=YOUR_FILE_ID_2",
+        "description": "Naruto faces his first challenge."
+      }
+    ]
+  },
+  {
+    "name": "One Piece",
+    "description": "Pirates and adventures in search of the One Piece treasure",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "One Piece - Episode 1",
+        "videoLink": "https://drive.google.com/uc?id=YOUR_FILE_ID_3",
+        "description": "Luffy starts his journey to find the treasure."
+      },
+      {
+        "episodeNumber": 2,
+        "title": "One Piece - Episode 2",
+        "videoLink": "https://drive.google.com/uc?id=YOUR_FILE_ID_4",
+        "description": "Luffy recruits his first crewmate."
+      }
+    ]
+  }
+]
